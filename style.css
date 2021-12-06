@@ -4,3 +4,16 @@ body
   background-image:linear-gradient(pink,lavender,crimson,skyblue)
 }
 
+#life {
+  font-family: 'Corinthia', cursive;
+  padding: 50px;
+  text-align: center;
+  background-image: linear-gradient(pink, lavender, darkorchid);
+}
+
+#empire {
+  font-family: 'Corinthia', cursive;
+  padding: 30px;
+  text-align: center;
+  background-image: linear-gradient(pink, lavender, crimson);
+}
